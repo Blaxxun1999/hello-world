@@ -1,2 +1,2 @@
 # hello-world
-As identified in the tutorial
+An example of how changes are handled
